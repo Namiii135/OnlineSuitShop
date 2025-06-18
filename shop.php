@@ -20,7 +20,9 @@
       <div class="product-grid">
         <figure class="item-container">
           <div class="item-img">
-            <img src="./assets/Blue Suit.avif" alt="Blue Suit" />
+            <a href="productdetails.php">
+              <img src="./assets/Blue Suit.avif" alt="Blue Suit" />
+            </a>
           </div>
           <figcaption class="item-caption">
             Blue Two Buttons Slim Fit Suit
